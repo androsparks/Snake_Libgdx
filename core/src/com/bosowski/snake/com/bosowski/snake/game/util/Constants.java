@@ -5,11 +5,13 @@ package com.bosowski.snake.com.bosowski.snake.game.util;
  */
 
 public class Constants {
+//ca-app-pub-5725047638356457~3531202046    app id
+//ca-app-pub-5725047638356457/4737731682    unit id
 
 
     //Game World dimensions
-    public static final float VIEWPORT_HEIGHT = 10;
-    public static final float VIEWPORT_WIDTH =  18;
+    public static final float VIEWPORT_HEIGHT = 18;
+    public static final float VIEWPORT_WIDTH =  10;
 
     //GUI dimenstions
     public static final float VIEWPORT_GUI_HEIGHT = 1080f;
